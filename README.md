@@ -4,7 +4,7 @@
 
 I'm a passionate developer focused on building innovative solutions and continuously learning new technologies. I work on full-stack development, machine learning projects, and modern web applications.
 
-- 🌱 I'm currently learning advanced ML & DL techniques, backend development, and Generative AI  
+- 🌱 I'm currently learning advanced ML & DL techniques, full-stack development, and Generative AI  
 - 💬 Ask me about web development, machine learning, and cloud technologies  
 - 📫 How to reach me: [GitHub](https://github.com/javin1106) • [LinkedIn](https://www.linkedin.com/in/javin-chutani/) • [X](https://x.com/JavinChutani)  
 - ⚡ Fun fact: Always curious about the latest in tech!
@@ -13,7 +13,7 @@ I'm a passionate developer focused on building innovative solutions and continuo
 
 ## 🛠️ Tech Stack
 
-### Backend Development
+### Full-Stack Development
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)

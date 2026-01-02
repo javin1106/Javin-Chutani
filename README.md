@@ -28,14 +28,6 @@ I'm a passionate developer focused on building innovative solutions and continuo
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=javin1106&theme=radical)](https://git.io/streak-stats)
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javin1106&layout=compact&theme=radical)
-
 ## 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/javin1106)

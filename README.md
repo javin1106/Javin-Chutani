@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=700&color=00FFF7&center=true&vCenter=true&width=900&lines=FULL-STACK+DEV+%2F%2F+ML+EXPLORER;BUILDING+SYSTEMS%2C+APPS+AND+AI+TOOLS;RETRO+MODE%3A+ON+%7C+BUGS%3A+NERFED)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=700&color=F97316&center=true&vCenter=true&width=900&lines=FULL-STACK+DEV+%2F%2F+ML+EXPLORER;BUILDING+SYSTEMS%2C+APPS+AND+AI+TOOLS;RETRO+MODE%3A+ON+%7C+BUGS%3A+NERFED)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=javin1106&style=for-the-badge&color=ff00cc&label=PROFILE+HITS" />
-<img src="https://img.shields.io/github/followers/javin1106?style=for-the-badge&logo=github&color=00ffee&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/javin1106?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=ffee00&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=javin1106&style=for-the-badge&color=F97316&label=PROFILE+HITS" />
+<img src="https://img.shields.io/github/followers/javin1106?style=for-the-badge&logo=github&color=A3A3A3&labelColor=171717" />
+<img src="https://img.shields.io/github/stars/javin1106?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FDBA74&labelColor=171717" />
 
 <br />
 
@@ -148,14 +148,4 @@ fun_fact: "I treat every new tech rabbit hole like a side quest."
 
 </details>
 
-## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="30" /> Power-Ups: Tech Stack
-
-This is the loadout: tools I use for building full-stack apps, ML projects, backend systems, and experiments that turn into real products.
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-121212?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
+## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100" /> 

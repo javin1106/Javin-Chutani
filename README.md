@@ -1,8 +1,36 @@
-<img width="100%" src="./assets/pixel-name-banner.svg" alt="Pixel art banner for Javin Chutani" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2600&pause=700&color=F97316&center=true&vCenter=true&width=900&lines=FULL-STACK+DEV+%2F%2F+ML+EXPLORER;BUILDING+SYSTEMS%2C+APPS+AND+AI+TOOLS;RETRO+MODE%3A+ON+%7C+BUGS%3A+NERFED)](https://git.io/typing-svg)
+<table>
+  <tr>
+    <td>
+<pre>
+###################******###%%############
+############*=-:.:....    .==+##%#########
+#########+=:...:==-==:::--:=::::+#%#######
+######*-..:--=+*+*#%#@@%%%%%%%#=..*%######
+#####:    .::-+*=..=%@@@%@%@@@@%*:.*######
+####.           ..  -%@@%###%@%%%#==*#####
+###-       ....      :--+=-..-=*%*--:+%###
+##*         .. ....   -- :=-.. -+***: *%##
+##=            ..   .. .    -:    :-=.:###
+##=        ..   -:..          :=-...-= *##
+##+ .::..  .--. :-:..  .  .     .--  : +#
+##*          :-----..:  ..  : .   :-.. =#
+###:           .:---. .   ..-=--..   ..+#
+###*.            .---.     ..-=::-..   *#
+#####=:.           :--.      .   -:::..##
+#######*+:          .:::       .   .. -%#
+#########+-       .  ..::.            *##
+########-             ... ...       .:###
+#######*                     .==----=*###
+#######:                    .###%%%%%####
+######=                     =############
+###*=.                      +############
+*=.                         =############
+                             :+##########
+                               -#########
+
+</table>
 
 <img src="https://komarev.com/ghpvc/?username=javin1106&style=for-the-badge&color=F97316&label=PROFILE+HITS" />
 <img src="https://img.shields.io/github/followers/javin1106?style=for-the-badge&logo=github&color=A3A3A3&labelColor=171717" />
@@ -11,141 +39,45 @@
 <br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/javin1106)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javin-chutani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=171717)](https://www.linkedin.com/in/javin-chutani/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/JavinChutani)
 
 </div>
 
-```txt
-BOOTING JAVIN_OS v20.26...
 
-> loading curiosity.exe
-> mounting full_stack_dev/
-> syncing ml_lab/
-> warming up redis_like_systems/
-> status: ready to build, break, debug, ship, repeat
-```
 
-## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="28" /> Player Profile
 
-```yaml
-name: Javin Chutani
-role: Developer in build mode
-focus:
-  - Full-stack web apps
-  - Machine learning and data science
-  - Backend systems and developer tooling
-  - Generative AI experiments
-currently_learning:
-  - Advanced ML and deep learning
-  - System design and scalable backends
-  - Agentic AI workflows
-fun_fact: "I treat every new tech rabbit hole like a side quest."
-```
-
-| Current Mode | Main Quests | Bonus XP |
-|---|---|---|
-| `BUILDING` | TypeScript, Node.js, MongoDB, Go | Clean APIs and useful products |
-| `LEARNING` | Deep Learning, MLOps, GenAI | Turning experiments into systems |
-| `DEBUGGING` | Backend flows, model pipelines | Finding the tiny thing causing the big thing |
-
-## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /> Pixel Arcade
+## <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30" /> Stats Arcade
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/javin1106/Centralised-Exchange">
-        <pre>┌─────────┐
-│ EXCH_01 │
-│ ▓▓░░▓▓  │
-│ BUY/SELL│
-└─────────┘</pre>
-        <b>Centralised Exchange</b>
-      </a>
-      <br />
-      <sub>TypeScript trading systems</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/javin1106/JavinKV">
-        <pre>┌─────────┐
-│ KV_8080 │
-│ ▣▣▣▣▣▣  │
-│ GET SET │
-└─────────┘</pre>
-        <b>JavinKV</b>
-      </a>
-      <br />
-      <sub>Redis-like DB in Go</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/javin1106/GossipKaro">
-        <pre>┌─────────┐
-│ CHATBOX │
-│ > hi _  │
-│ ONLINE  │
-└─────────┘</pre>
-        <b>GossipKaro</b>
-      </a>
-      <br />
-      <sub>End-to-end chat app</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <a href="https://github.com/javin1106/URL-Shortener">
-        <pre>┌─────────┐
-│ URL.EXE │
-│ long -> │
-│ short   │
-└─────────┘</pre>
-        <b>URL Shortener</b>
-      </a>
-      <br />
-      <sub>Backend API practice</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/javin1106/ECommerce-Backend">
-        <pre>┌─────────┐
-│ CART_99 │
-│ [$][$]  │
-│ API RUN │
-└─────────┘</pre>
-        <b>ECommerce Backend</b>
-      </a>
-      <br />
-      <sub>Commerce APIs and auth</sub>
-    </td>
-    <td align="center" width="160">
-      <a href="https://github.com/javin1106/Diabetes-Predictor-App">
-        <pre>┌─────────┐
-│ ML_LAB  │
-│ 01 10   │
-│ PREDICT │
-└─────────┘</pre>
-        <b>Diabetes Predictor</b>
-      </a>
-      <br />
-      <sub>Python ML app</sub>
-    </td>
-  </tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=javin1106&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=javin1106&theme=gruvbox&hide_border=true" />
+
+<img width="72%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javin1106&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" />
+
+<br />
+
+<img width="92%" src="https://github-profile-trophy.vercel.app/?username=javin1106&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" />
+
+<br />
+
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=javin1106&theme=github-compact&bg_color=080808&color=FDBA74&line=F97316&point=A3A3A3&area=true&hide_border=true&custom_title=Contribution%20Circuit" />
 
 </div>
 
-<details>
-<summary><b>Insert Coin: Open Quest Log</b></summary>
-<br />
+## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30" /> Choose Your Portal
 
-| Quest | Repos | Signal |
-|---|---|---|
-| Trading and backend systems | [`Centralised-Exchange`](https://github.com/javin1106/Centralised-Exchange) | TypeScript backend architecture and exchange-style workflows |
-| Database internals | [`JavinKV`](https://github.com/javin1106/JavinKV) | Redis-like database in Go, built from scratch |
-| Campus/product apps | [`AMS-with-TimeTable`](https://github.com/javin1106/AMS-with-TimeTable), [`RateYourPlate`](https://github.com/javin1106/RateYourPlate) | Practical web apps with real user flows |
-| Backend learning projects | [`URL-Shortener`](https://github.com/javin1106/URL-Shortener), [`Splitwise-Clone`](https://github.com/javin1106/Splitwise-Clone), [`ECommerce-Backend`](https://github.com/javin1106/ECommerce-Backend) | APIs, auth, data models, and service design |
-| ML experiments | [`MindMirror`](https://github.com/javin1106/MindMirror), [`Mental-Health-In-Tech`](https://github.com/javin1106/Mental-Health-In-Tech), [`Diabetes-Predictor-App`](https://github.com/javin1106/Diabetes-Predictor-App) | Jupyter, Streamlit, data science, predictive modeling |
+<div align="center">
 
-</details>
+<a href="https://github.com/javin1106?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Repos-F97316?style=for-the-badge&logo=github&logoColor=171717" />
+</a>
+<a href="https://www.linkedin.com/in/javin-chutani/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-A3A3A3?style=for-the-badge&logo=linkedin&logoColor=171717" />
+</a>
+<a href="https://x.com/JavinChutani">
+  <img src="https://img.shields.io/badge/Follow%20on%20X-111111?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
-## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100" /> 
+</div>

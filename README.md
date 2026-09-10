@@ -32,6 +32,9 @@
 
 </table>
 
+<!-- Profile image added below -->
+<img src="assets/b3fed8f7-3b81-4b10-8555-5050fe031e9d.jpg" alt="Profile image" width="320" />
+
 <img src="https://komarev.com/ghpvc/?username=javin1106&style=for-the-badge&color=F97316&label=PROFILE+HITS" />
 <img src="https://img.shields.io/github/followers/javin1106?style=for-the-badge&logo=github&color=A3A3A3&labelColor=171717" />
 <img src="https://img.shields.io/github/stars/javin1106?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=FDBA74&labelColor=171717" />
